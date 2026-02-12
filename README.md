@@ -71,7 +71,3 @@ If remote already exists and you want to set the URL:
 git remote set-url origin https://github.com/Code-With-Samuel/Supervised_FineTuning.git
 git push -u origin main
 ```
-
-## License
-
-MIT
