@@ -73,7 +73,5 @@ git push -u origin main
 ```
 
 ## License
-Add a license file if you want to publish this project.
 
----
-If you'd like, I can also create a minimal `requirements.txt`, add Git LFS tracking, and commit & push these changes for you.
+MIT
